@@ -26,4 +26,4 @@ During my work on this project there are so many things that I learnt and encoun
 as in my idea I realize that there are tremendous amount of algorithm which I shall need to studies in order to make this 
 happen which will take almost a year but I would still insist on building it despite the time I have, just keep going.
 
-
+<img src="https://github.com/WN1AP/ITE343/blob/master/Screen%20Shot%202018-06-14%20at%2010.40.30%20PM.png?raw=true" />
